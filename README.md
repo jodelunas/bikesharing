@@ -34,18 +34,19 @@ Male usage is the highest among users. There could be ways to close the gap with
 
 ### Trips by Weekday per Hour
 
+<img width="775" alt="Weekday_per_Hour" src="https://user-images.githubusercontent.com/106006911/188964722-fbfa4158-67fc-4a0f-bf15-87db049bee09.png">
 
 This graph shows that while normal rush hour times are the most popular times during the week, weekends are busy as well. This makes it important to look for tourist and recreational areas as well. While it is very important to accommodate commuters, you can't forget about recreational riders.
 
 ### Trips by Gender (Weekday per Hour)
 
-![](https://file%2B.vscode-resource.vscode-cdn.net/Users/johannahdelunas/Desktop/Johannah/Bootcamp/Challenge_Solutions/bikesharing/Trips_by_Gender.png?version%3D1662576683972)
+<img width="832" alt="Trips_by_Gender" src="https://user-images.githubusercontent.com/106006911/188964778-c65cdd80-a371-4952-8a1e-c2aaa8eb2a26.png">
 
 This heatmap shows the most popular times and days are the same for males and females. It matches with other charts that Monday thru Friday at rush hours are the most popular times. Unknown have a slightly heavier use on weekends.
 
 ### User Trips by Gender by Weekday
 
-![](https://file%2B.vscode-resource.vscode-cdn.net/Users/johannahdelunas/Desktop/Johannah/Bootcamp/Challenge_Solutions/bikesharing/Gender_by_Weekday.png?version%3D1662578556337)
+<img width="775" alt="Gender_by_Weekday" src="https://user-images.githubusercontent.com/106006911/188964854-eaa935ec-99d2-4648-bd35-fbb7283f4d9c.png">
 
 This heat map shows that male subscribers are the biggest market. The busiest days, being weekdays, shows that regular use is what interests people in subscriptions. The average customer is primarily using this service for recreation, not necessity.
 
