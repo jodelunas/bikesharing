@@ -19,7 +19,6 @@ By adding the map, this image shows that the most popular starting locations ten
 <img width="766" alt="Top_Ending_Locations" src="https://user-images.githubusercontent.com/106006911/188964145-855ac646-b828-45a4-b4e6-6b54db0a86fe.png">
 
 The top ending locations follow the same trend, which will help with placement of stations.
-<img width="782" alt="Checkout_Time" src="https://user-images.githubusercontent.com/106006911/188964268-6ae71c83-9622-4aca-8724-6142f3a1aa6a.png">
 
 ### Checkout Times for Users
 
