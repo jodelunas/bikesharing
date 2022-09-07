@@ -5,7 +5,8 @@ The purpose of this challenge is to convert the tripduration column to the datet
 
 ## Results
 
-The results of this analysis will help make decisions for planning a Bike Share in Des Moines
+The results of this analysis will help make decisions for planning a Bike Share in Des Moines.
+
 link to story: https://public.tableau.com/app/profile/johannah.delunas/viz/NYCCityBikeAnalysis_16624890221940/NYCStory?publish=yes
 
 ### Top Starting Locations
