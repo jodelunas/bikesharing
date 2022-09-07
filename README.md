@@ -52,3 +52,7 @@ This heatmap shows the most popular times and days are the same for males and fe
 This heat map shows that male subscribers are the biggest market. The busiest days, being weekdays, shows that regular use is what interests people in subscriptions. The average customer is primarily using this service for recreation, not necessity.
 
 ## Summary
+
+Overall, males were the primary users of Citibikes in New York City during August 2019. The most usage occurred Monday thru Friday and starting and ending locations of Citibike trips were the same. Additional analysis is needed in order to determine if Citibikes is a great fit for Des Moines, Iowa.
+An additional visualization that may help investors determine if Citibikes are a good fit for Des Moines would be to look at weather data. Both cities have four seasons, and if their temperatures and weather are similar, than this may also provide a stronger case to investors that Citibikes is a great fit for Des Moines, Iowa.
+Including information on public transportation use would would be another useful visualization. While on a smaller scale, adding this would be helpful for comparison. 
